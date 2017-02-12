@@ -1,0 +1,20 @@
+﻿Build started 5/2/2015 11:57:04 AM.
+     1>Project "E:\FAST\2nd semester\CP\B_DestructoBeam(PracticeMode)\Destructo_Beam\Destructo_Beam\Destructo_Beam.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Destructo_Beam.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Destructo_Beam.unsuccessfulbuild".
+         Touching "Debug\Destructo_Beam.lastbuildstate".
+     1>Done Building Project "E:\FAST\2nd semester\CP\B_DestructoBeam(PracticeMode)\Destructo_Beam\Destructo_Beam\Destructo_Beam.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.04
